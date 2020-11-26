@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Project work should have three members in their team
+=======
+We have 24 hrs a day 
+So we sleep for 12hrs a day :-)
+>>>>>>> name2
